@@ -1,0 +1,14 @@
+{
+  "client_id": "https://avanathan.github.io/oauth-intuit-cimd-app/oauth/metadata.json",
+  "client_name": "OAuth CIMD Sample App",
+  "redirect_uris": [
+    "https://avanathan.github.io/oauth-intuit-cimd-app/"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
